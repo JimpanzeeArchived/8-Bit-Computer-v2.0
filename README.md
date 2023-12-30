@@ -1,7 +1,7 @@
 # Readme
 An 8-bit computer with a built-in 2kHz clock and capaable is 
 
-
+##ALU
 ![ALU](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/2f07f200-852b-43a4-893e-695f64489977)
 ![Clock](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/b9aec771-fb50-4190-9557-a4f260da58e2)
 ![CPU](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/eefc0b50-d68d-4cf0-8bd2-6dbdb0778cda)
