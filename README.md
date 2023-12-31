@@ -29,6 +29,11 @@ The ALU module consists of 2 adder modules and 2 selectors. The module processes
 The Seven Segment Display Module takes in an 8-bit number and outputs a 2-digit number.
 ![Seven_Segment_Disp](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/8cd036ba-c3e0-4edd-b8c3-967db036fe1e)
 
+#### Opcodes
+The following shows a list of available opcodes:
+![opcodes](https://github.com/JimpanzeeArchived/EEPROM-Programmer/assets/154708517/c280b302-ed33-4d8e-b138-7d5fdb731415)
+
 #### Example
-The video shows the computer programmed with the instructions to add 3 and 4 repeatedly in an infinite loop. 
+The video shows the computer programmed with the following instructions to add 3 and 4 repeatedly in an infinite loop. 
+![example code](https://github.com/JimpanzeeArchived/EEPROM-Programmer/assets/154708517/ec1c0877-ec08-492f-95a0-58cb0d1bb426)
 https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/88e93b67-46fd-44a7-b058-354273d4ef22
