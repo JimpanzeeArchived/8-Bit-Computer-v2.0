@@ -8,6 +8,10 @@ An 8-bit computer that is equipped with a built-in 1kHz clock and is capable of 
 ![Full_Assembly_2_NoWire](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/e91be7ef-5b75-4486-a5a1-bbefe22a5346)
 ![Full_Assembly_3_NoWire](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/4390e364-a5bc-43f0-b426-f8e4f971ba8a)
 
+#### Flow Diagram
+![UML](https://github.com/JimpanzeeArchived/EEPROM-Programmer/assets/154708517/f827ec8d-cf36-44ad-87d7-6d04db121a2a)
+
+
 #### CPU Module
 The CPU aims to obtain users' instructions and output appropriate responses according to those instructions. The CPU consists of the instruction EEPROM and the main EEPROM. The main EEPROM is where the user can control the computer's behaviors by programming it using the EEPROM programmer. The user must provide an instruction from the OPCODE list, followed by an operand from 0-15. The user can program up to 16 instructions. The output of the main EEPROM is then fed onto the instruction EEPROM, which then outputs bits to control its eight-digit output to control the behavior of the computer. The data can be saved, moved, added, or loaded to the register depending on the instructions provided. 
 ![CPU](https://github.com/JimpanzeeArchived/8-Bit-Computer-v2.0/assets/154708517/eefc0b50-d68d-4cf0-8bd2-6dbdb0778cda)
