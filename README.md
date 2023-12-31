@@ -31,6 +31,7 @@ The Seven Segment Display Module takes in an 8-bit number and outputs a 2-digit 
 
 #### Opcodes
 The following shows a list of available opcodes:
+
 ![opcodes](https://github.com/JimpanzeeArchived/EEPROM-Programmer/assets/154708517/c280b302-ed33-4d8e-b138-7d5fdb731415)
 
 #### Example
